@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Prueba nueva en casa.
 
 mas cambios
+=======
+Prueba nueva.
+
+Una nueva linea
+>>>>>>> 96450346538a31ce3c3ca208b7fa8c7a4134236f
